@@ -52,5 +52,5 @@
 
 ### 2. 저장소 클론
 ```bash
-git clone [GitHub Repository URL]
-cd [Project Directory Name]
+git clone [GitHub Repository URL] : https://github.com/ogt-git/SecondMarket.git
+cd [SecondMarket]
